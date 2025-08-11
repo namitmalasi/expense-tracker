@@ -10,7 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@google-cloud/vision": "^5.3.3",
     "@tailwindcss/vite": "^4.1.11",
+    "axios": "^1.11.0",
+    "lucide-react": "^0.539.0",
+    "openai": "^5.12.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "tailwindcss": "^4.1.11"
